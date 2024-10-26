@@ -12,7 +12,7 @@
  
  🔭 I’m currently a junior CS student at **Delaware State University**
  
- 🌱 I’m currently learning **React, Node.js**
+ 🌱 I’m currently learning **React**
 
  </div>
  
