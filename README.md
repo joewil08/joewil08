@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently a junior CS student at **Delaware State University**
+ 🔭 I’m currently a senior CS student at **Delaware State University**!
 
  </div>
  
