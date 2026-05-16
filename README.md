@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Joseph+Wilson!+😊;" />
 </h1>
 
-<h3 align="center">An aspiring data engineer 👨‍💻</h3>
+<h3 align="center">Data & Analytics 👨‍💻</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently a senior CS student at **Delaware State University**!
+ 🔭 I'm a recent graduate from **Delaware State University** with a B.S. in Computer Science and a minor in Mathematics!
 
  </div>
  
